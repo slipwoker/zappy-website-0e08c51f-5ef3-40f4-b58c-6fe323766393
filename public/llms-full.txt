@@ -2,13 +2,13 @@
 
 A web-based salary calculator tool designed to handle complex Israeli payroll scenarios. The tool accounts for unpaid break deductions beyond a set number of hours, daily travel expense reimbursements, overtime pay, and Shabbat premium pay — applying the Shabbat rate only during Shabbat hours and not after its conclusion. The focus is on accuracy and compliance with Israeli labor norms.
 
-Source: https://-0e08c51f.zappy5.app
+Source: https://example.com
 
 ---
 
 ## hr payroll tools — מחשבון שכר
 
-URL: https://-0e08c51f.zappy5.app
+URL: https://example.com
 Description: A web-based salary calculator tool designed to handle complex Israeli payroll scenarios. The tool accounts for unpaid break deductions beyond a set number of ho
 
 hr payroll tools — מחשבון שכר
@@ -878,7 +878,7 @@ hr payroll tools — מחשבון שכר
 
 ## מדיניות פרטיות
 
-URL: https://-0e08c51f.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -1121,7 +1121,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 ## הצהרת נגישות
 
-URL: https://-0e08c51f.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -1373,7 +1373,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 ## תנאי שימוש
 
-URL: https://-0e08c51f.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
