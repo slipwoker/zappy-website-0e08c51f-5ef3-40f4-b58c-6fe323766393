@@ -1,0 +1,71 @@
+# מחשבון שכר — Generative Engine Optimization Map
+
+> A web-based salary calculator tool designed to handle complex Israeli payroll scenarios. The tool accounts for unpaid break deductions beyond a set number of hours, daily travel expense reimbursements, overtime pay, and Shabbat premium pay — applying the Shabbat rate only during Shabbat hours and not after its conclusion. The focus is on accuracy and compliance with Israeli labor norms.
+
+---
+
+## Pages
+
+### בית
+https://-0e08c51f.zappy5.app
+A web-based salary calculator tool designed to handle complex Israeli payroll scenarios. The tool accounts for unpaid break deductions beyond a set number of ho
+
+## Legal & Policy
+
+### Privacy Policy
+https://-0e08c51f.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-0e08c51f.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-0e08c51f.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-0e08c51f.zappy5.app
+- Endpoint: https://-0e08c51f.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About מחשבון שכר
+A web-based salary calculator tool designed to handle complex Israeli payroll scenarios. The tool accounts for unpaid break deductions beyond a set number of hours, daily travel expense reimbursements, overtime pay, and Shabbat premium pay — applying the Shabbat rate only during Shabbat hours and not after its conclusion. The focus is on accuracy and compliance with Israeli labor norms.
+
+## Services/Products
+- חישוב שכר בסיסי
+- ניכוי הפסקה לא מתוגמלת מעל כמות שעות מסוימת
+- הוספת דמי נסיעה יומיים
+- חישוב שעות נוספות
+- חישוב שכר שבת (בזמן שבת בלבד, לא לאחר יציאתה)
+
+## Target Audience
+- בני נוער
+
+## Industry
+Payroll / HR Tools
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-0e08c51f.zappy5.app/sitemap.xml
+- Robots: https://-0e08c51f.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-0e08c51f.zappy5.app/llms-full.txt
